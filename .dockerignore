@@ -1,0 +1,3 @@
+# o que será ignorado no COPY do docker, ou seja,
+# a node_modules queremos que seja gerada dentro da imagem docker e não copiada
+node_modules/
