@@ -1,4 +1,4 @@
-# Projeto criado em React a partir de uma aula no canal Full Cycle
+# Projeto criado em React a partir de uma aula no canal Full Cycle, para aprender aprender Docker
 
 Aula: [React e TypeScript: Pontapé inicial do jeito certo](https://www.youtube.com/watch?v=kxoBhslDRcw&t=1469s)
 Canal: [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
